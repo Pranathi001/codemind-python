@@ -1,0 +1,6 @@
+a,b=map(int,input().split())
+x=list(map(int,input().split()))
+y=list(map(int,input().split()))
+z=set(x).intersection(y)
+l=len(z)
+print(l)
