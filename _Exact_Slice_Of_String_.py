@@ -1,0 +1,5 @@
+n=input()
+a=int(input())
+b=int(input())
+z=list(n)
+print(n[a:b+1])
